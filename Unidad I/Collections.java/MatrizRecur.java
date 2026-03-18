@@ -1,6 +1,6 @@
 
 
-public class MatrizRecurSimple {
+public class MatrizRecur {
 
   
     // Imprime la matriz recursivamente
